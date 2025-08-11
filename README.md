@@ -1,4 +1,4 @@
-# SQL--Task2
+# SQL-Task2
 Data Insertion and Handling Nulls
 
 DML STATEMENT USING SIMPLE RETAIL SYSTEM
